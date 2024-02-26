@@ -1,6 +1,2 @@
 .venv/
-BankAccountClass.py
-BankAccountProgram.py
-calc_gross_pay.py
-Coin Toss.py
-CoinClass.py
+temp/
